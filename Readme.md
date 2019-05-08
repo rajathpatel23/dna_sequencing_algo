@@ -1,4 +1,4 @@
-## Comparative Analysis of Multiple Sequence Algorithm for the study DNA, RNA and protein nucleotides
+## Comparative Analysis of Multiple Sequence Alignment Algorithm for the study DNA, RNA and protein nucleotides
 
 A. metric_calculation.sh  -
 - This files does the following function
